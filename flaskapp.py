@@ -4,12 +4,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 import requests  # to get image from the web
 import shutil  # to save it locally
-from PIL import Image
 import ast
-from tensorflow.keras import backend, layers
-import ast
-from tensorflow.keras import backend, layers
-import os
 import tensorflow as tf
 
 

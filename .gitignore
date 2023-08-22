@@ -40,3 +40,5 @@ static/76.jpg
 static/77.jpg
 static/78.jpg
 static/fiat-500-3.jpg
+flaskapp.py
+model_finetuned.h5
